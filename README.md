@@ -1,4 +1,4 @@
-# Damneetsingh01-Week-6.2_Indian_Cars-EMA-
+# Damneetsingh01-Week-6.2_Indian_Cars-EDA-
 
 Project 6:- Python Exploratory Data Analysis
 
